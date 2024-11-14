@@ -3,7 +3,7 @@
 <H3>PRASANNA G R</H3>
 <H3>212221040129</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 11/3/24</H3>
+<H3>DATE: 19/8/24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim:
